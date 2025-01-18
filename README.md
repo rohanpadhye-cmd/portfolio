@@ -6,6 +6,11 @@ Welcome to the repository for my personal portfolio website! This site showcases
 
 [rohanpadhye.dev](https://portfolio-rohan-padhyes-projects.vercel.app/)
 
+
+## 🖼️ Website Preview
+
+![Portfolio Preview](./public/preview.png)
+
 ## 🛠️ Technologies Used
 
 This portfolio website is built using modern technologies to ensure scalability, responsiveness, and excellent performance. Here’s a breakdown of the tech stack:
