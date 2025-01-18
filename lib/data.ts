@@ -36,40 +36,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "B.E. in Information Technology",
-    location: "VES Institute of Technology, Mumbai, India",
+    title: "Teaching Assistant",
+    location: "Western University, London, ON",
     description:
-      "Completed coursework in Algorithms, Data Structures, and Software Engineering. Developed projects including an AI-powered smart doorbell and a license plate recognition system. Served as Placement Coordinator, managing campus placement drives and maintaining a student database.",
-    icon: React.createElement(LuGraduationCap),
-    date: "June 2019 - May 2023",
-  },
-
-  {
-    title: "Software Development Intern",
-    location: "Virtual Labs IIT Bombay, Mumbai, India",
-    description:
-      "Developed Python scripts to dynamically generate MCQ-based questions for an educational software designed for school students. Implemented algorithms to automate question generation, ensuring diverse and accurate options tailored to varying difficulty levels.",
-    icon: React.createElement(FaCode),
-    date: "June 2021 - December 2021",
-  },
-  
-
-  {
-    title: "React Developer",
-    location: "Coursenator, Navi Mumbai, India",
-    description:
-      "Worked as a Frontend Developer, focusing on building and optimizing web applications using React.",
-    icon: React.createElement(FaReact),
-    date: "March 2022 - July 2022",
-  },
-
-  {
-    title: "Placement Coordinator",
-    location: "Vivekanand Education Society's Institute of Technology, Mumbai, India",
-    description:
-      "Coordinated placement drives, collaborated with company HR representatives, and managed the selection process for final-year students. Developed and maintained a comprehensive student database, enhancing organizational efficiency.",
-    icon: React.createElement(FaUsers),
-    date: "July 2022 - May 2023",
+      "Conducted lab sessions for CS Fundamentals II, guiding students through experiments and assignments in Java.",
+    icon: React.createElement(CgWorkAlt),
+    date: "January 2024 - May 2024",
   },
   {
     title: "MSc in Computer Science",
@@ -79,16 +51,39 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "September 2023 - August 2024",
   },
-
   {
-    title: "Teaching Assistant",
-    location: "Western University, London, ON",
+    title: "Placement Coordinator",
+    location: "Vivekanand Education Society's Institute of Technology, Mumbai, India",
     description:
-      "Conducted lab sessions for CS Fundamentals II, guiding students through experiments and assignments in Java.",
-    icon: React.createElement(CgWorkAlt),
-    date: "January 2024 - May 2024",
+      "Coordinated placement drives, collaborated with company HR representatives, and managed the selection process for final-year students. Developed and maintained a comprehensive student database, enhancing organizational efficiency.",
+    icon: React.createElement(FaUsers),
+    date: "July 2022 - May 2023",
   },
-] as const;
+  {
+    title: "React Developer",
+    location: "Coursenator, Navi Mumbai, India",
+    description:
+      "Worked as a Frontend Developer, focusing on building and optimizing web applications using React.",
+    icon: React.createElement(FaReact),
+    date: "March 2022 - July 2022",
+  },
+  {
+    title: "Software Development Intern",
+    location: "Virtual Labs IIT Bombay, Mumbai, India",
+    description:
+      "Developed Python scripts to dynamically generate MCQ-based questions for an educational software designed for school students. Implemented algorithms to automate question generation, ensuring diverse and accurate options tailored to varying difficulty levels.",
+    icon: React.createElement(FaCode),
+    date: "June 2021 - December 2021",
+  },
+  {
+    title: "B.E. in Information Technology",
+    location: "VES Institute of Technology, Mumbai, India",
+    description:
+      "Completed coursework in Algorithms, Data Structures, and Software Engineering. Developed projects including an AI-powered smart doorbell and a license plate recognition system. Served as Placement Coordinator, managing campus placement drives and maintaining a student database.",
+    icon: React.createElement(LuGraduationCap),
+    date: "June 2019 - May 2023",
+  }
+]as const;
 
 export const projectsData = [
   {
